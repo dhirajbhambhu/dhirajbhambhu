@@ -44,8 +44,8 @@ A production-style REST API for managing users and orders, built with:
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://www.linkedin.com/in/dhiraj-bhambhu/)
-[![Email](dheerajbhambhu60@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dheeraj_Bhambhu-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/dhiraj-bhambhu/
+[![Email](https://img.shields.io/badge/Email-dheerajbhambhu60@gmail.com-EA4335?style=flat&logo=gmail)](mailto:dheerajbhambhu60@gmail.com)
 
 ---
 
