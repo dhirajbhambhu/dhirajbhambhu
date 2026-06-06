@@ -27,12 +27,12 @@ A production-style REST API for managing users and orders, built with:
 - Pagination, sorting, custom exception handling
 - Swagger UI docs at `/swagger-ui/index.html`
 
-> **Live demo:** *coming soon (deploying on Railway)*
+> **Live demo:** [springboot-user-management-production-0066.up.railway.app](https://springboot-user-management-production-0066.up.railway.app)
 
 ---
 
 ## 📌 Currently
-
+- ✅ Deployed: Spring Boot REST API live on Railway
 - 🔨 Building: adding React frontend to my Spring Boot project
 - 📚 Learning: Docker, unit testing with JUnit + Mockito
 - 🎯 Goal: Java backend or full-stack internship in 2025–2026
