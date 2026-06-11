@@ -1,5 +1,11 @@
 # Hey, I'm Dheeraj Bhambhu 👋
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Open+to+Internships+%F0%9F%9A%80;Building+Scalable+Backend+Systems)](https://git.io/typing-svg)
+
+</div>
+
 Final-year B.Tech student building Java backend systems.
 Currently looking for a **Java / Full Stack internship** (open to anywhere — remote, hybrid, or on-site).
 
@@ -16,8 +22,18 @@ Currently looking for a **Java / Full Stack internship** (open to anywhere — r
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logo=lombok&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
 
 ---
+
+## 🔥 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dheeraj-bhambhu&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheeraj-bhambhu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ## 🚀 Featured Project
 
@@ -49,3 +65,7 @@ A production-style REST API for managing users and orders, built with:
 ---
 
 *Open to internship opportunities across India and globally (remote-friendly).*_
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=dheeraj-bhambhu&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
