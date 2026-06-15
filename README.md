@@ -12,7 +12,7 @@ Currently looking for a **Java / Full Stack internship** (open to anywhere — r
 ---
 
 ## 🛠️ Tech Stack
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-bhambhu&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj-bhambhu&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
