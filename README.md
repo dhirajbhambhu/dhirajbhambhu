@@ -12,7 +12,7 @@ Currently looking for a **Java / Full Stack internship** (open to anywhere — r
 ---
 
 ## 🛠️ Tech Stack
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj-bhambhu&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-bhambhu&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -66,6 +66,8 @@ A production-style REST API for managing users and orders, built with:
 [![Email](https://img.shields.io/badge/Email-dhirajbhambhu18@gmail.com-EA4335?style=flat&logo=gmail)](mailto:dhirajbhambhu18@gmail.com)
 
 ---
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dheeraj-bhambhu&theme=react-dark)
 
 *Open to internship opportunities across India and globally (remote-friendly).*_
 
