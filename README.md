@@ -33,7 +33,6 @@ Currently looking for a **Java / Full Stack internship** (open to anywhere — r
 
 ## 🔥 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dheeraj-bhambhu&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheeraj-bhambhu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&rank_icon=github)
 
