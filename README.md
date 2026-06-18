@@ -68,5 +68,3 @@ A production-style REST API for managing users and orders, built with:
 *Open to internship opportunities across India and globally (remote-friendly).*_
 
 ---
-
-![Visitor Count](https://komarev.com/ghpvc/?username=dhirajbhambhu&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
