@@ -12,7 +12,7 @@ Currently looking for a **Java / Full Stack internship** (open to anywhere — r
 ---
 
 ## 🛠️ Tech Stack
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj-bhambhu&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajbhambhu&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -34,7 +34,7 @@ Currently looking for a **Java / Full Stack internship** (open to anywhere — r
 ## 🔥 GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheeraj-bhambhu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhirajbhambhu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&rank_icon=github)
 
 ## 🚀 Featured Project
 
@@ -44,9 +44,6 @@ A production-style REST API for managing users and orders, built with:
 - Spring Boot + Spring Data JPA + MySQL
 - Layered architecture (Controller → Service → Repository)
 - Pagination, sorting, custom exception handling
-- Swagger UI docs at `/swagger-ui/index.html`
-
-> **Live demo:** [springboot-user-management-production-0066.up.railway.app](https://springboot-user-management-production-0066.up.railway.app)
 
 ---
 
@@ -61,15 +58,15 @@ A production-style REST API for managing users and orders, built with:
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dheeraj_Bhambhu-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/dhiraj-bhambhu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhiraj Bhambhu-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/dhiraj-bhambhu/)
 [![Email](https://img.shields.io/badge/Email-dhirajbhambhu18@gmail.com-EA4335?style=flat&logo=gmail)](mailto:dhirajbhambhu18@gmail.com)
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dheeraj-bhambhu&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhirajbhambhu&theme=react-dark)
 
 *Open to internship opportunities across India and globally (remote-friendly).*_
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=dheeraj-bhambhu&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=dhirajbhambhu&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
