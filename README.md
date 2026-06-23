@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B8FD6&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Full+Stack+Learner;Open+to+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B8FD6&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Full+Stack+Developer;Open+to+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
